@@ -17,7 +17,7 @@
 
 ### 주의사항
 <ul>
-  <li>tomcat 서버는 별도로 exe파일로 직접 설치를 하지는 않았고 폴더형태로 다운로드 한뒤 IntelliJ의 Run/Debug Configuration 에서 서버의 경로를 지정해주었습니다.</li>
+  <li>tomcat 서버는 직접 설치를 하지는 않았고 폴더형태로 다운로드 한뒤 IntelliJ의 Run/Debug Configuration 에서 서버의 경로를 지정해주었습니다.</li>
 </ul>
 <br>
 
