@@ -18,6 +18,7 @@
 ### 주의사항
 <ul>
   <li>tomcat 서버는 직접 설치를 하지는 않았고 폴더형태로 다운로드 한뒤 IntelliJ의 Run/Debug Configuration 에서 서버의 경로를 지정해주었습니다.</li>
+  <li>Main폴더의 크기가 커서 압축해서 업로드 했습니다, 프로젝트를 실행시키려면 main압축을 src아래에 해제해주시기 바랍니다.</li>
   <li>DB ID : system</li>
   <li>DB Password : cometrue</li>
 </ul>
