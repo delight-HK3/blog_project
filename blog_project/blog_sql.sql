@@ -12,7 +12,4 @@ drop table blog201812029;
 
 insert into blog201812029 values(seq_blog201812029.nextval, 'test', 'test@induk.ac.kr', '01099998888', '메시지시작');
 
-
-
 select * from blog201812029;
-
