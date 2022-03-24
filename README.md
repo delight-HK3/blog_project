@@ -1,7 +1,7 @@
 # blog project
 
 >사용한 프레임워크 : bootstrap 4 <br>
->사용한 언어 : JAVA, JSP, jquery, Javascript<br>
+>사용한 언어 : Java, JSP, jquery, Javascript<br>
 >사용한 DB : Oracle 11g<br>
 >사용한 서버 : tomcat 9.0.52<br>
 >사용한 Tool : IntelliJ IDEA Ultimate
