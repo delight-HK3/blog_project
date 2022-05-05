@@ -4,7 +4,9 @@
 >사용한 언어 : Java, JSP, jquery, Javascript<br>
 >사용한 DB : Oracle 11g<br>
 >사용한 서버 : tomcat 9.0.52<br>
->사용한 Tool : IntelliJ IDEA Ultimate
+>사용한 Tool : IntelliJ IDEA Ultimate<br>
+>테스트한 OS : Window 10<br>
+<br>
 
 >사용한 템플릿<br>
 >Client page : <a href="https://startbootstrap.com/theme/clean-blog">Clean Blog</a><br>
